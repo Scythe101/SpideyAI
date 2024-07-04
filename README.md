@@ -31,7 +31,7 @@ Then, change directories into the repo folder
 ```sh
 cd SpideyAI
 ```
-Lastly, upload any images you plan on detecting spiders in, and then run the Python script.
+Lastly, run the Python script.
 ```sh
 python3 spiders.py path/to/image/here
 ```
