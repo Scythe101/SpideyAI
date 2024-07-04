@@ -35,3 +35,5 @@ Lastly, run the Python script.
 ```sh
 python3 spiders.py path/to/image/here
 ```
+
+[Here is the link to a video demonstration](https://drive.google.com/file/d/1NKrWIcP5V33LlGLswXgGnfiJUF2rkQ5c/view?usp=sharing)
